@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HooksForms/static/css/main.eebeb50c.chunk.css",
+    "main.js": "/HooksForms/static/js/main.263fcac2.chunk.js",
+    "main.js.map": "/HooksForms/static/js/main.263fcac2.chunk.js.map",
+    "runtime-main.js": "/HooksForms/static/js/runtime-main.67a3ca29.js",
+    "runtime-main.js.map": "/HooksForms/static/js/runtime-main.67a3ca29.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/HooksForms/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.8eb761f7.chunk.js": "/HooksForms/static/js/2.8eb761f7.chunk.js",
+    "static/js/2.8eb761f7.chunk.js.map": "/HooksForms/static/js/2.8eb761f7.chunk.js.map",
+    "static/js/3.5aae88a1.chunk.js": "/HooksForms/static/js/3.5aae88a1.chunk.js",
+    "static/js/3.5aae88a1.chunk.js.map": "/HooksForms/static/js/3.5aae88a1.chunk.js.map",
+    "index.html": "/HooksForms/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/HooksForms/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.eebeb50c.chunk.css.map": "/HooksForms/static/css/main.eebeb50c.chunk.css.map",
+    "static/js/2.8eb761f7.chunk.js.LICENSE.txt": "/HooksForms/static/js/2.8eb761f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a3ca29.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.8eb761f7.chunk.js",
+    "static/css/main.eebeb50c.chunk.css",
+    "static/js/main.263fcac2.chunk.js"
+  ]
+}
